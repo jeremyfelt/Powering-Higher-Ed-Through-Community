@@ -1,0 +1,61 @@
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6,
+.reveal p,
+.reveal ul {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+.reveal h1,
+.reveal h2 {
+	text-transform: none;
+}
+
+.reveal h1 {
+	font-size: 3.5em;
+}
+
+.reveal .slide-background {
+	background-color: #2a3033;
+}
+
+.reveal .title-slide {
+	text-align: left;
+}
+
+.reveal .title-slide h1 {
+	font-size: 5em;
+}
+
+.reveal .title-slide h2 {
+	font-size: 4em;
+}
+
+.reveal .title-slide p {
+	font-size: 1.6em;
+	padding-left: .4em;
+}
+
+.reveal .single-word-slide h1 {
+	font-size: 6em;
+}
+
+.reveal .overview-slide {
+	text-align: left;
+}
+
+.reveal .overview-slide h1 {
+	font-size: 4.5em;
+}
+
+.reveal .clear {
+	clear: both;
+}
+
+.reveal .hljs-comment {
+	color: #cbeff7;
+}
